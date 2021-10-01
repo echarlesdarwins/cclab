@@ -1,0 +1,3 @@
+gcloud init
+google-cloud-sdk\bin\dev_appserver.py C:\Users\ragul\Desktop\test
+“localhost:8000”
