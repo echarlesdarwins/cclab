@@ -1,0 +1,52 @@
+4th exp 
+console.cloud.google.com
+gcloud app deploy --project <Project id>
+glcoud app deploy --project black-resource-290808
+
+
+
+5th exp
+while creating project in eclipse atlast giving finish it will pop a box create module info.java in that give "DONT CREATE"
+
+
+6th exp
+ipconfig
+
+apt-cache search cifs
+
+sudo apt-get install cifs-utils
+
+df -h
+
+sudo mkdir /media/testing
+sudo mount.cifs -o username=charlee //ipaddress/username /media/testing
+
+shortcut for opening terminal in linux ---- ctrl+alt+T
+for closing the terminal ctrl + D
+ctrl + l for clearing the terminal 
+
+
+7th
+1. installing microstack (sudo snap install microstack --devmode –beta)
+2. Informations of microstack (snap list microstack)
+3. Initialization (sudo microstack init --auto –control)
+4. verification 
+5. query openstack (microstack.openstack keypair list)
+6: To list the default image (microstack.openstack image list)
+7. To get the default list of flavors (microstack.openstack flavor list)
+8. create an instance (microstack launch cirros -n test)
+9. connect to the instance (launching server.. allocating floating ip..)
+10. Access the cloud dashboard (http.//10.20.20.1)
+(sudo snap get microstack config.credentials.keystone-password)
+
+11.Sample password:
+OAEHxLgCBz7Wz4usvolAAt61TrDUz6zz
+Upon logging in you should see the created instance
+
+
+
+
+
+
+
+
